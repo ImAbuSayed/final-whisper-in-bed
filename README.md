@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/final-whisper-in-bed/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Final Whisper In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/final-whisper-in-bed/) |
+| **Get License** | [License this song: Final Whisper In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/final-whisper-in-bed/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pull me close and let the shadows fall
+> Nothing else matters when I hear you call
+> Skin on skin until the morning light
+> We’re drowning in the fire of this quiet night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
