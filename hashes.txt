@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Final Whisper In Bed
+
+This log tracks the cryptographic history and versioning for the song **Final Whisper In Bed** (final-whisper-in-bed).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-10T19:05:00.433621 | `v1` | `a706a65082941f3bc1401708a6cabac2c33bd075743c262deccf166e1f1926ca` | `5479c9db9a1e843880ed5bb4e706249932ac0c9683f347ff1afb601476a34493` | `2026-06-10_final-whisper-in-bed-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
